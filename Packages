@@ -1,0 +1,14 @@
+Package: com.pradeep6868.gdbiOS11.deb
+Name: gdb iOS 11
+Version: 7.10.50-iOS11
+Size: 2,001,504 Bytes
+Architecture: iphoneos-arm
+Description: this is a back up shmoo's gdb enjoy! Also all the credits goes to shmoo for making this awesome tool. This works on iOS 11-Electra.
+Maintainer: Pradeep6868 <pp2418076@gmail.com>
+Author: Pradeep6868 <pp2418076@gmail.com>
+Section: Tweak
+MD5sum:49E9D5186A5E28ADED1BA117569DDB62
+SHA1sum:D2E43B441110C25275CDC96D6EE9B77C2D54A86C
+SHA256sum:E2530A84A48C2C01E3ECD36DF69BD18F9275EC251FEC33F1E4CDB9E3988E0FD5
+Filename: gdb-iOS11.deb
+
