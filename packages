@@ -1,0 +1,8 @@
+Package: <gdb-iOS11.deb>
+Version: <0.0.1>
+Architecture: iphoneos-arm
+Maintainer: Pradeep6868 <pradeeppradhan20002@gmail.com>
+Depends: <bundleids>
+Filename: <gdb-iOS11.deb>
+Description: <Shmoo's Gdb back up, All Credits goes to shmoo.>
+Author: Pradeep6868 <pradeeppradhan20002@gmail.com>
