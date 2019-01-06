@@ -1,8 +1,8 @@
-Origin: Pradeep6868 Repo
-Label: Pradeep6868's Repo
+Origin: pradeep6868.github.io
+Label: pradeep6868.github.io
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Pradeep6868's Repo
+Description: My repo 
